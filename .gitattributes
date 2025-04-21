@@ -9,3 +9,4 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.c filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
+/cython_debug/cython_debug_info_packedfilter filter=lfs diff=lfs merge=lfs -text
